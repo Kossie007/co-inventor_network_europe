@@ -97,3 +97,7 @@ The project utilizes data derived from the **OECD REGPAT database** (January 202
 
 **file: `documents/network_groupwork.pdf`**
 -   The final research paper detailing the finding that European brokers form a dense "Elite Club" and that brokerage is technologically specialized rather than a generalist phenomenon.
+
+### Licence
+MIT License (MIT): see the [License File](https://github.com/sensiolabs/GotenbergBundle/blob/1.x/LICENSE) for more details.
+
