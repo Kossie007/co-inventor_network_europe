@@ -1,7 +1,7 @@
 # What Does It Mean to Be a Broker?
 ## Brokers in the European Co-Inventor Network
 
-### Course: Applied Network Science (ADIN150NAMB) – Group Project
+### Course: Applied Network Science – Group Project
 
 ### Team Members:
 -   Gellért Banai
