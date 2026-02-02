@@ -94,6 +94,6 @@ file: `documents/network_groupwork.pdf`**
 -   
 
 ---
-### Licence
+### License
 MIT License (MIT): see the [License File](https://github.com/sensiolabs/GotenbergBundle/blob/1.x/LICENSE) for more details.
 
